@@ -1,8 +1,8 @@
 # Tor Anonim Sohbet
 Dark Web Anonim Chat Oluşturma
 
-- Dark web'de site nasıl açılır? https://github.com/fastuptime/Dark_Web_de_Site_Kurma
-
+- Bu yazılımla oluşturulan hiçbir sohbet ve uygulama veya herhangi bir şeyin sorumluluğu bana ait değildir.
+- Mesaj yazıp kullanım kılavuzu falan istemeyin bunu da kullanamıyorsanız burada işiniz nedir ?
 ```
 npm install
 ```
